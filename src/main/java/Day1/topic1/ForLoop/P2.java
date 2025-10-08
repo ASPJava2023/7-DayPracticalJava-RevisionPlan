@@ -1,4 +1,4 @@
-package topic1.ForLoop;
+package Day1.topic1.ForLoop;
 
 public class P2 {
     public static void main(String[] args) {

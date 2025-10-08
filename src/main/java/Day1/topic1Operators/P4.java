@@ -1,4 +1,4 @@
-package topic1Operators;
+package Day1.topic1Operators;
 
 public class P4 {
     public static void main(String[] args) {

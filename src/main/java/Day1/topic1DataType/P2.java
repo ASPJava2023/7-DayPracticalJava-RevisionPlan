@@ -1,4 +1,4 @@
-package topic1DataType;
+package Day1.topic1DataType;
 
 public class P2 {
     public static void main(String[] args) {

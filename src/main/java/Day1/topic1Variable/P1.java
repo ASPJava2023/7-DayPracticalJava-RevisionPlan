@@ -1,4 +1,4 @@
-package topic1Variable;
+package Day1.topic1Variable;
 
 public class P1 {
     public static void main(String[] args) {

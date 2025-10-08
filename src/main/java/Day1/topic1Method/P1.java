@@ -1,4 +1,4 @@
-package topic1Method;
+package Day1.topic1Method;
 
 import javax.xml.transform.stream.StreamSource;
 

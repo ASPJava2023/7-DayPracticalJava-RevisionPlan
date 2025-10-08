@@ -1,4 +1,4 @@
-package topic1.SwitchCase;
+package Day1.topic1.SwitchCase;
 
 public class P1 {
     public static void main(String[] args) {

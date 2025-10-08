@@ -1,4 +1,4 @@
-package topic1.whileloop;
+package Day1.topic1.whileloop;
 
 public class P1 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package topic1Method;
+package Day1.topic1Method;
 
 public class P2 {
     public String getName(String name) {

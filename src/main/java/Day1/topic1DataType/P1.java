@@ -1,4 +1,4 @@
-package topic1DataType;
+package Day1.topic1DataType;
 
 /*Data Types*/
 public class P1 {

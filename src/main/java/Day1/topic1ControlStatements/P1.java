@@ -1,4 +1,4 @@
-package topic1ControlStatements;
+package Day1.topic1ControlStatements;
 
 public class P1 {
     public static void main(String[] args) {

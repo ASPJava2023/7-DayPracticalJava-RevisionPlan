@@ -1,4 +1,4 @@
-package topic.Array;
+package Day1.Array;
 
 import java.util.Arrays;
 
