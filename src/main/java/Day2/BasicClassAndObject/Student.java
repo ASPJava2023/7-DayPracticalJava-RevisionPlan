@@ -1,4 +1,4 @@
-package Day2;
+package Day2.BasicClassAndObject;
 
 public class Student {
     private String name;
