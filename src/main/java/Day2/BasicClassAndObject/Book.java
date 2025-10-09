@@ -1,4 +1,4 @@
-package Day2;
+package Day2.BasicClassAndObject;
 
 public class Book {
     private String title;

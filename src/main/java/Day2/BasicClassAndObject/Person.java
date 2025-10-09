@@ -1,4 +1,4 @@
-package Day2;
+package Day2.BasicClassAndObject;
 /*Using Object References*/
 
 public class Person {
